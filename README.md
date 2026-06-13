@@ -22,7 +22,3 @@ Have an idea? Open an issue with the `enhancement` label and describe:
 ## General Discussion
 
 Feel free to use [Discussions](../../discussions) for questions, feedback, or anything else that doesn't fit neatly into a bug report or feature request.
-
-## Contributing
-
-If you want to contribute code or documentation, head over to the main [teald](https://github.com/tealios/teald) repository.
