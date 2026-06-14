@@ -2,6 +2,8 @@
 
 This is the discussion hub for [teald](https://github.com/tealios/teald). No code lives here — it's the place to file bug reports, ask questions, and have general discussions about the project.
 
+[Discord](https://discord.gg/c5eNPSxww3)
+
 ## Filing a Bug
 
 1. Check the [existing issues](../../issues) to make sure the bug hasn't already been reported.
